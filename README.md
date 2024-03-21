@@ -9,14 +9,15 @@ I'm Kamalesh Patil, a passionate frontend developer with a focus on React.js and
 - HTML5
 - CSS3
 - JavaScript
+- Tailwind CSS
 
 ## 🌐 Portfolio
 
-Check out my portfolio [here](link-to-your-portfolio) to see some of my projects and work!
+Check out my portfolio [here](https://kamaleshpatil13.github.io/Portfolio-app/) to see some of my projects and work!
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kamalesh-patil/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kamalesh-patil/)
 
 ## 🚀 Let's Collaborate
 
